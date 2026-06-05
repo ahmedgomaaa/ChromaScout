@@ -10,6 +10,8 @@ Essence balances, and works out how many shards you can actually afford to unloc
 > **No Riot API key required.** Everything is read locally from your own client; image
 > art comes from the public Community Dragon CDN. Nothing is uploaded anywhere.
 
+![ChromaScout — the "Worth Unlocking" view: essence balances, shards with their on-sale chromas, unlock costs, and affordability](screenshot.png)
+
 ---
 
 ## Why this exists
