@@ -1,0 +1,6 @@
+# Normalize line endings; keep Python LF and batch files CRLF.
+* text=auto
+*.py   text eol=lf
+*.bat  text eol=crlf
+*.md   text
+*.json text eol=lf

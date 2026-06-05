@@ -1,0 +1,33 @@
+# --- Personal data produced at runtime (NEVER commit - contains your account info) ---
+lcu_dump/
+chroma_report.html
+run_log.txt
+launcher_log.txt
+my_*.json
+ANSWER_matches.json
+emporium_be_chromas.json
+player-loot.json
+store_catalog*.json
+cdragon_skins.json
+
+# --- Build artifacts (the single-file .bat is published as a Release asset, not committed) ---
+EmporiumChromaFinder.bat
+EmporiumChromaFinder.zip
+EmporiumChromaFinder/
+*.zip
+
+# --- Superseded 3-file launcher (the single EmporiumChromaFinder.bat replaces it) ---
+run.bat
+
+# --- Local scratch / exploration scripts (not part of the shipped tool) ---
+step*.py
+diag*.py
+lcu.py
+
+# --- Python / OS noise ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
